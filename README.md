@@ -41,12 +41,26 @@
 
 | Area | Repository | What it shows |
 |---|---|---|
+| Project portfolio | [network-projects-portfolio](https://github.com/mihirchandra10/network-projects-portfolio) | 10 enterprise, carrier and defense-sector network and security projects (case studies) |
+| Network security | [network-security-labs](https://github.com/mihirchandra10/network-security-labs) | Hands-on NGFW labs: Palo Alto (App-ID, threat prevention, decryption, GlobalProtect), FortiGate (UTM, SSL inspection, SD-WAN, SSL VPN), Juniper SRX (screens, IDP, UTM, AppSecure) |
 | Network automation | [network-config-templates](https://github.com/mihirchandra10/network-config-templates) | Cleaned-up JunOS, PAN-OS, FortiOS and RouterOS config templates: BGP, OSPF, IPsec VPN, HA |
 | Infrastructure as Code | [terraform-aws-infra](https://github.com/mihirchandra10/terraform-aws-infra) | AWS VPC, IAM and compute provisioned with Terraform |
 | Containers & CI/CD | [docker-k8s-cicd](https://github.com/mihirchandra10/docker-k8s-cicd) | Containerized app, Kubernetes manifests and a GitHub Actions pipeline |
 | Linux & web | [nginx-ha-loadbalancer](https://github.com/mihirchandra10/nginx-ha-loadbalancer) | Nginx reverse proxy / load balancer setup for high availability |
 | Monitoring | [infra-monitoring-stack](https://github.com/mihirchandra10/infra-monitoring-stack) | Prometheus + Grafana monitoring and alerting for servers and network |
 | Data science | [data-science-projects](https://github.com/mihirchandra10/data-science-projects) | Notebooks from the PGDDS program |
+
+---
+
+### 🛡️ Selected projects
+
+- **Defense WAN upgrade, 18 sites:** MX-104 / SRX / EX with BGP and OSPF over GRE-over-IPsec, plus Palo Alto PA-820 HA
+- **Defense data center:** Palo Alto PA-3060 active/passive firewall HA
+- **Carrier IIG data center core:** Juniper MX-480/80/10/5 with BGP and MPLS, and Google GGC and Akamai cache integration
+- **Mobile operator (Grameenphone):** Juniper firmware upgrade and BGP community design
+- **Enterprise security:** FortiGate UTM and VPN (Laugfs Gas), Ruckus wireless HA (MAS Intimates), SRX1500 DMZ firewall (university)
+
+➡️ [All 10 case studies](https://github.com/mihirchandra10/network-projects-portfolio)
 
 ---
 
