@@ -55,13 +55,19 @@
 
 ---
 
-### 🛡️ Selected projects
+### ⭐ Major security projects
+
+- **Grameenphone data security system:** planned and implemented the Juniper firmware upgrade and colour BGP (community-based) routing for the largest mobile operator in Bangladesh
+- **Defense data center, Dhaka:** planned, designed and implemented active/passive HA between Palo Alto PA-3060 firewalls
+- **Laugfs Gas Bangladesh:** FortiGate 100E with IPS, antivirus, threat prevention and site-to-site IPsec VPN
+- **Science & technology university:** Juniper SRX1500 deployed as the DMZ firewall with ACLs and UTM
+
+### 🛡️ More projects
 
 - **Defense WAN upgrade, 18 sites:** MX-104 / SRX / EX with BGP and OSPF over GRE-over-IPsec, plus Palo Alto PA-820 HA
-- **Defense data center:** Palo Alto PA-3060 active/passive firewall HA
-- **Carrier IIG data center core:** Juniper MX-480/80/10/5 with BGP and MPLS, and Google GGC and Akamai cache integration
-- **Mobile operator (Grameenphone):** Juniper firmware upgrade and BGP community design
-- **Enterprise security:** FortiGate UTM and VPN (Laugfs Gas), Ruckus wireless HA (MAS Intimates), SRX1500 DMZ firewall (university)
+- **Tri-service video-conferencing network:** SRX-345/220 segmentation between army, navy and air force, with ACLs and UTM
+- **Carrier IIG data center core:** Juniper MX-480/80/10/5 with BGP and MPLS, DDoS mitigation, and Google GGC and Akamai cache integration
+- **Enterprise:** two-campus SRX zone security and IPsec VPN (government agency), seaport access-control VPN, Ruckus wireless HA and guest isolation (MAS Intimates)
 
 ➡️ [Network security projects](https://github.com/mihirchandra10/network-security-projects) · [All network projects](https://github.com/mihirchandra10/network-projects-portfolio)
 
