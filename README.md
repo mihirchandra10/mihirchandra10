@@ -1,6 +1,8 @@
 # Hi, I'm Mihir Chandra Paul 👋
 
-**Infrastructure, network and cloud engineer** based in Dhaka, Bangladesh. I have 13+ years of experience designing, building and running enterprise and carrier networks. I am now focused on cloud, automation and DevOps.
+**Network security, infrastructure and cloud engineer** based in Dhaka, Bangladesh. I have 13+ years of experience designing, securing and running enterprise, defense and carrier networks. I deliver hands-on projects on **Palo Alto, Fortinet and Juniper SRX** firewalls and am now extending into cloud, automation and DevOps.
+
+- 🛡️ Network security: NGFW (Palo Alto, FortiGate, Juniper SRX), firewall HA, IPsec VPN, IPS/UTM, segmentation, DDoS mitigation, cloud IAM/MFA
 
 - 🏢 Currently **Asst. Manager, Infrastructure Solutions** at Synesis IT PLC
 - ☁️ **AWS Certified Solutions Architect – Associate**
@@ -41,8 +43,9 @@
 
 | Area | Repository | What it shows |
 |---|---|---|
-| Project portfolio | [network-projects-portfolio](https://github.com/mihirchandra10/network-projects-portfolio) | 10 enterprise, carrier and defense-sector network and security projects (case studies) |
-| Network security | [network-security-labs](https://github.com/mihirchandra10/network-security-labs) | Hands-on NGFW labs: Palo Alto (App-ID, threat prevention, decryption, GlobalProtect), FortiGate (UTM, SSL inspection, SD-WAN, SSL VPN), Juniper SRX (screens, IDP, UTM, AppSecure) |
+| **Network security projects** | [network-security-projects](https://github.com/mihirchandra10/network-security-projects) | 10 production security projects: Palo Alto PA-3060/PA-820 HA, FortiGate UTM and IPS, Juniper SRX DMZ and segmentation, IPsec VPNs, DDoS mitigation, cloud IAM/MFA |
+| Network projects | [network-projects-portfolio](https://github.com/mihirchandra10/network-projects-portfolio) | 10 enterprise, carrier and defense-sector network projects (case studies) |
+| Firewall configurations | [network-security-labs](https://github.com/mihirchandra10/network-security-labs) | Example Palo Alto, FortiGate and Juniper SRX configurations for the techniques used in my projects |
 | Network automation | [network-config-templates](https://github.com/mihirchandra10/network-config-templates) | Cleaned-up JunOS, PAN-OS, FortiOS and RouterOS config templates: BGP, OSPF, IPsec VPN, HA |
 | Infrastructure as Code | [terraform-aws-infra](https://github.com/mihirchandra10/terraform-aws-infra) | AWS VPC, IAM and compute provisioned with Terraform |
 | Containers & CI/CD | [docker-k8s-cicd](https://github.com/mihirchandra10/docker-k8s-cicd) | Containerized app, Kubernetes manifests and a GitHub Actions pipeline |
@@ -60,7 +63,7 @@
 - **Mobile operator (Grameenphone):** Juniper firmware upgrade and BGP community design
 - **Enterprise security:** FortiGate UTM and VPN (Laugfs Gas), Ruckus wireless HA (MAS Intimates), SRX1500 DMZ firewall (university)
 
-➡️ [All 10 case studies](https://github.com/mihirchandra10/network-projects-portfolio)
+➡️ [Network security projects](https://github.com/mihirchandra10/network-security-projects) · [All network projects](https://github.com/mihirchandra10/network-projects-portfolio)
 
 ---
 
