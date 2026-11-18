@@ -1,12 +1,12 @@
 # Hi, I'm Mihir Chandra Paul 👋
 
-**Network engineer · Network security · Cloud & Infrastructure as Code**, based in Dhaka, Bangladesh. I have 13+ years of experience designing, building, securing and running carrier, defense, government and enterprise networks, and I now also automate infrastructure in the cloud.
+**Network engineer · Network security · Cloud & Infrastructure as Code**. I have 13+ years of experience designing, building, securing and running carrier, defense, government and enterprise networks.
 
-- 🌐 **Networking:** IIG/ISP carrier core, BGP, OSPF, MPLS, multi-site WAN, campus and data center networks: Juniper · Cisco · Huawei · MikroTik · Ruckus · Brocade
-- 🛡️ **Network security:** Palo Alto, FortiGate and Juniper SRX firewalls, firewall HA, IPsec VPN, IPS/UTM, segmentation, DDoS mitigation
-- ☁️ **Cloud & IaC:** AWS (Certified Solutions Architect – Associate), Azure, GCP, Terraform, CI/CD, Docker, Kubernetes, IAM/MFA
-- 🏢 Currently **Asst. Manager, Infrastructure Solutions** at Synesis IT PLC
-- 🎓 Post Graduate Diploma in Data Science (UIU, 2025) · B.Sc. in EEE (Eastern University)
+- 🌐 **Networking:** IIG/ISP carrier core, BGP, OSPF, MPLS, multi-site WAN, campus wireless and data center networks: Juniper · Cisco · Huawei · MikroTik · Ruckus etc.
+- 🛡️ **Network security:** Palo Alto, FortiGate and Juniper SRX firewalls, firewall HA, ACL, IPsec VPN, IPS/UTM, segmentation, DDoS mitigation
+- ☁️ **Cloud & IaC:** AWS (Certified Solutions Architect – Associate), CI/CD, Docker, Kubernetes, IAM/MFA
+- 🏢 Currently ** Manager, Infrastructure Solutions** at Synesis IT PLC
+- 🎓 Post Graduate Diploma in Data Science (United International University, 2025) · B.Sc. in EEE (Eastern University )
 - 🔗 [LinkedIn](https://www.linkedin.com/in/mihir-paul-654b96157/)
 
 ---
@@ -29,9 +29,6 @@
 
 **Cloud & Infrastructure as Code**
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
@@ -40,7 +37,6 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![VMware](https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 ---
