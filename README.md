@@ -5,7 +5,7 @@
 - 🌐 **Networking:** IIG/ISP carrier core, BGP, OSPF, MPLS, multi-site WAN, campus wireless and data center networks: Juniper · Cisco · Huawei · MikroTik · Ruckus etc.
 - 🛡️ **Network security:** Palo Alto, FortiGate and Juniper SRX firewalls, firewall HA, ACL, IPsec VPN, IPS/UTM, segmentation, DDoS mitigation
 - ☁️ **Cloud & IaC:** AWS (Certified Solutions Architect – Associate), CI/CD, Docker, Kubernetes, IAM/MFA
-- 🏢 Currently ** Manager, Infrastructure Solutions** at Synesis IT PLC
+- 🏢 Currently Manager, Infrastructure Solutions at Synesis IT PLC
 - 🎓 Post Graduate Diploma in Data Science (United International University, 2025) · B.Sc. in EEE (Eastern University )
 - 🔗 [LinkedIn](https://www.linkedin.com/in/mihir-paul-654b96157/)
 
